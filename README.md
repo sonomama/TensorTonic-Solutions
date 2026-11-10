@@ -11,7 +11,7 @@ TensorTonic is a platform where you can implement core algorithms of Machine Lea
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
 
 <!-- tensortonic:start -->
-# Anya's TensorTonic Solutions
+# AGO's TensorTonic Solutions
 
 Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
 
@@ -21,7 +21,8 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| Classify a Critical Point from the Hessian | Classify a stationary point as a minimum, maximum, or saddle from the eigenvalues of its Hessian. | https://www.tensortonic.com/problems/optim-critical-point-classification |
 | Newton's Method | Compare gradient descent and Newton's method on a linear regression task using MSE loss. | https://www.tensortonic.com/problems/optim-newtons-method |
 
-View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/anya_goremykina)
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/anyago)
 <!-- tensortonic:end -->
